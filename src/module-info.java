@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author zhout
- *
- */
-module VirusSimulator {
-}
